@@ -1,5 +1,8 @@
 ---
 title: "Euan Mortlock"
+color1: "#5A59A3"
+color2: "#C66060"
+angle: 130
 image: "thumb_P5181218_1024.jpg"
 links:
   - label: LinkedIn
@@ -11,11 +14,39 @@ links:
   - label: Email
     url: "mailto:euanmortlock@protonmail.com"
 output:
-  postcards::jolla
+  postcards::onofre
 ---
 
 ## About Me 
-I'm a postdoctoral researcher, my current project is titled "Sleep in the Landscape of Fear".  
-My main research interest is the ecology of sleep in wild animals.     
+> I'm an ecologist, based in the UK, but currently in Prague working on my Postdoc project, "Sleep in the Landscape of Fear".
+I have broad interests in animal behaviour, the ecology of sleep, and the use of biologging approaches to solve problems and answer ecological questions related to those topics. I use both Bayesian, and frequentist statistics, to analyse large and complex datasets in support of this. All the work I've been involved in has been collaborative, both domestic and international. Outside of academic work, I'm currently training for an ultramarathon, and get out surfing as much as I can.  
+
+
+## Academic background  
+#### BSc Biology (1st Class Hons.)  
+**Swansea University**  
+Dissertation - *Accelerometry and spatial data reveals patterns of dominance behaviour in domestic goat* Capra hircus  
+Supervised by Luca Börger
+  
+#### MRes Biology  
+**Swansea University**  
+Thesis - *Comparing the Meerkat - Biologging to understand differences in development in juvenile Meerkat* Suricata suricatta  
+Supervised by Luca Börger  
+  
+#### PhD  
+**Queen's University Belfast** (current affiliation)  
+*The Ecology of Sleep in Free-Living Animals*    
+Supervised by Isabella Capellini  
+
+
+## Skills  
+
+Fluent and advanced use of R software  
+Advanced statistical modelling, using both Bayesian (mcmcglmm, brms) and frequentist (lme4, mgcv) methods  
+Competent in spatial analysis (adehabitatHR, ggmap, raster, etc.)  
+Highly proficient with handling and manipulating large & unwieldy datasets, particularly "messy" data  
+Start-to-finish implementation of a variety of biologging approaches  
+Scientific writing, for lay and academic audiences  
+Setup and use of Notion software, at small and medium scales  
 
 
