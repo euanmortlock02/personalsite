@@ -1,0 +1,21 @@
+---
+title: "Euan Mortlock"
+image: "thumb_P5181218_1024.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: Twitter
+    url: "https://twitter.com/EuanMortlock"
+  - label: GitHub
+    url: "https://github.com/euanmortlock02"
+  - label: Email
+    url: "mailto:euanmortlock@protonmail.com"
+output:
+  postcards::jolla
+---
+ 
+I am a classically trained data scientist living in the San Francisco Bay Area. 
+Currently I work on the Oculus team at Facebook. I love talking about baseball, 
+true crime podcasts, and causal inference.
+
+
