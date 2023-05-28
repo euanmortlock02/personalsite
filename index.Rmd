@@ -13,8 +13,9 @@ links:
 output:
   postcards::jolla
 ---
- 
-I'm a postdoctoral researcher, my current project is titled "Sleep in the Landscape of Fear".
-My main interest is the ecology of sleep in wild animals.
+
+## About Me 
+I'm a postdoctoral researcher, my current project is titled "Sleep in the Landscape of Fear".  
+My main research interest is the ecology of sleep in wild animals.     
 
 
